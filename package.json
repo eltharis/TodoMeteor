@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "private": true,
+  "scripts": {
+    "start": "meteor run",
+    "startAndroid": "meteor run android-device"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
